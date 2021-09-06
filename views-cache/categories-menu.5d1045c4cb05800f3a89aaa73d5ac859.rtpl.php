@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><li><a href="/categories/10">Apple</a></li><li><a href="/categories/9">Blusa de time</a></li><li><a href="/categories/6">Informática nova</a></li>
